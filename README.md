@@ -1,2 +1,2 @@
 # BigDataTraining-Major-Project
-This repository contains solutions for Major project
+This solution is not final. Please don't evaluate it now. I will update once it is complete.
